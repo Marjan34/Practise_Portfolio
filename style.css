@@ -1,0 +1,57 @@
+.box{
+    width: 600px;
+    height: 650px;
+    margin: 20px 40px;
+    overflow: hidden;
+    box-shadow: 0px 10px 30px rgb(173, 164, 164);
+    border-radius: 12px;
+}
+.top{
+    height: 50%;
+    width: 100%;
+   
+    overflow: hidden;
+
+} 
+.top img{
+    height: 100%;
+    width: 100%;
+}  
+.bottom{
+    height: 50%;
+    width: 100%;
+    margin-left: 30px;
+}
+h2{
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: middle;
+ 
+}
+p{
+    font-size: 15px;
+   
+}
+
+#but{
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: rgb(212, 86, 107);
+}
+.button{
+    margin-top: 80px;
+    margin-left: 380px;
+    
+}
+#but1{
+   padding: 5px 15px;
+   border-radius: 15px;
+}
+
+#but2{
+    padding: 5px 15px;
+    border-radius: 15px;
+}
